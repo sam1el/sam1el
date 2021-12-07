@@ -44,4 +44,4 @@
 [website]: https://automata-devops.io
 [linkedin]: https://www.linkedin.com/in/jeff-brimager-14490139
 [instagram]: https://www.instagram.com/sam1el/
-[chef-slack]: chefcommunity.slack.com
+[chef-slack]: https://chefcommunity.slack.com
