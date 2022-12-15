@@ -15,7 +15,13 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
+## Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1el&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br />
 
 ### Languages and Tools:
 
