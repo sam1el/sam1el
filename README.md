@@ -7,12 +7,9 @@
 - Spending time working with others in the Chef [community][chef-slack]
 - 2022 Goal is to get Kubernetes and Azure Certified.
 - Fun fact: When I'm not knee deep in code. I like to restore old cars/motorcycles. I also play many instruments
-
-<br />
 <br />
 
 ## Contributions
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1el&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br />
