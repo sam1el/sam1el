@@ -9,14 +9,12 @@
 - 🔭 **Currently working on:** Infrastructure automation and cloud-native solutions
 - 🌱 **Learning:** Rust, React, and advanced Kubernetes patterns
 - 👥 **Community:** Active contributor in the Chef [community][chef-slack]
-- 🎯 **2024 Goals:** Mastering cloud-native security and contributing to open-source projects
+- 🎯 **2025 Goals:** Enabling customers on their AI journey, mastering cloud-native security and contributing to open-source projects
 - ⚡ **Fun fact:** When I'm not deep in code, I restore vintage cars/motorcycles and play multiple instruments
 - 🍺 **Hobby:** Competitive brewing - combining precision and creativity
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 <br />
 
@@ -91,7 +89,5 @@
 
 </div>
 
-[website]: https://automata-devops.io
 [linkedin]: https://www.linkedin.com/in/jeff-brimager-14490139
-[instagram]: https://www.instagram.com/sam1el/
 [chef-slack]: https://chefcommunity.slack.com
