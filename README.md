@@ -1,4 +1,4 @@
-# Hi! I'm Jeff Brimager - aka [automata-devops][website] 👋
+# Hi! I'm Jeff Brimager 👋
 
 ## DevOps Engineer | Father | Brewing Enthusiast | Vintage Restoration Hobbyist
 
